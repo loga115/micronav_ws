@@ -1,0 +1,179 @@
+[12.591s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[12.592s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=4, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0xffffa4c98df0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0xffffa50444f0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0xffffa50444f0>>)
+[13.295s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[13.296s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[13.297s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[13.298s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[13.298s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[13.299s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[13.299s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/vignesh/micronav_ws'
+[13.300s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[13.301s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[13.302s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[13.303s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[13.303s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[13.304s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[13.305s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[13.305s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[13.305s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[13.479s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[13.480s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[13.480s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[13.481s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[13.481s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[13.483s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[13.484s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[13.485s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[13.486s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[13.487s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[13.488s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[13.490s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[13.491s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[13.492s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[13.493s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[13.494s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[13.495s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[13.496s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[13.496s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[13.497s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[13.497s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[13.498s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[13.498s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[13.499s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[13.500s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[13.500s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[13.501s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[13.501s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[13.503s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extensions ['ignore', 'ignore_ament_install']
+[13.504s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extension 'ignore'
+[13.505s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extension 'ignore_ament_install'
+[13.506s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extensions ['colcon_pkg']
+[13.506s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extension 'colcon_pkg'
+[13.507s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extensions ['colcon_meta']
+[13.508s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extension 'colcon_meta'
+[13.509s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extensions ['ros']
+[13.509s] Level 1:colcon.colcon_core.package_identification:_identify(src/camera_controller) by extension 'ros'
+[13.545s] DEBUG:colcon.colcon_core.package_identification:Package 'src/camera_controller' with type 'ros.ament_python' and name 'camera_controller'
+[13.547s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extensions ['ignore', 'ignore_ament_install']
+[13.548s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extension 'ignore'
+[13.549s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extension 'ignore_ament_install'
+[13.550s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extensions ['colcon_pkg']
+[13.550s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extension 'colcon_pkg'
+[13.551s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extensions ['colcon_meta']
+[13.551s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extension 'colcon_meta'
+[13.552s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extensions ['ros']
+[13.553s] Level 1:colcon.colcon_core.package_identification:_identify(src/serial_controller) by extension 'ros'
+[13.561s] DEBUG:colcon.colcon_core.package_identification:Package 'src/serial_controller' with type 'ros.ament_python' and name 'serial_controller'
+[13.562s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[13.562s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[13.563s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[13.563s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[13.563s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[14.680s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[14.681s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[15.018s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 2 installed packages in /home/vignesh/micronav_ws/install
+[15.205s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 183 installed packages in /opt/ros/humble
+[15.219s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[16.318s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'cmake_args' from command line to 'None'
+[16.319s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'cmake_target' from command line to 'None'
+[16.319s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[16.319s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'cmake_clean_cache' from command line to 'False'
+[16.320s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'cmake_clean_first' from command line to 'False'
+[16.320s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'cmake_force_configure' from command line to 'False'
+[16.320s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'ament_cmake_args' from command line to 'None'
+[16.320s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'catkin_cmake_args' from command line to 'None'
+[16.321s] Level 5:colcon.colcon_core.verb:set package 'camera_controller' build argument 'catkin_skip_building_tests' from command line to 'False'
+[16.321s] DEBUG:colcon.colcon_core.verb:Building package 'camera_controller' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/vignesh/micronav_ws/build/camera_controller', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/vignesh/micronav_ws/install/camera_controller', 'merge_install': False, 'path': '/home/vignesh/micronav_ws/src/camera_controller', 'symlink_install': False, 'test_result_base': None}
+[16.481s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'cmake_args' from command line to 'None'
+[16.481s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'cmake_target' from command line to 'None'
+[16.482s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[16.482s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'cmake_clean_cache' from command line to 'False'
+[16.482s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'cmake_clean_first' from command line to 'False'
+[16.483s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'cmake_force_configure' from command line to 'False'
+[16.483s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'ament_cmake_args' from command line to 'None'
+[16.483s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'catkin_cmake_args' from command line to 'None'
+[16.484s] Level 5:colcon.colcon_core.verb:set package 'serial_controller' build argument 'catkin_skip_building_tests' from command line to 'False'
+[16.484s] DEBUG:colcon.colcon_core.verb:Building package 'serial_controller' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/vignesh/micronav_ws/build/serial_controller', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/vignesh/micronav_ws/install/serial_controller', 'merge_install': False, 'path': '/home/vignesh/micronav_ws/src/serial_controller', 'symlink_install': False, 'test_result_base': None}
+[16.637s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[16.804s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[16.806s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/vignesh/micronav_ws/src/camera_controller' with build type 'ament_python'
+[16.808s] Level 1:colcon.colcon_core.shell:create_environment_hook('camera_controller', 'ament_prefix_path')
+[17.082s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[17.086s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/hook/ament_prefix_path.ps1'
+[17.098s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/hook/ament_prefix_path.dsv'
+[17.116s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/hook/ament_prefix_path.sh'
+[17.299s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[17.300s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[17.855s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/vignesh/micronav_ws/src/serial_controller' with build type 'ament_python'
+[17.858s] Level 1:colcon.colcon_core.shell:create_environment_hook('serial_controller', 'ament_prefix_path')
+[18.040s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/hook/ament_prefix_path.ps1'
+[18.049s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/hook/ament_prefix_path.dsv'
+[18.054s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/hook/ament_prefix_path.sh'
+[18.223s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[18.224s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[22.178s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/vignesh/micronav_ws/src/camera_controller'
+[22.353s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[22.354s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[26.038s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/vignesh/micronav_ws/src/serial_controller'
+[26.210s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[26.211s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[35.772s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/vignesh/micronav_ws/src/serial_controller': PYTHONPATH=/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/serial_controller build --build-base /home/vignesh/micronav_ws/build/serial_controller/build install --record /home/vignesh/micronav_ws/build/serial_controller/install.log --single-version-externally-managed
+[35.871s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/vignesh/micronav_ws/src/camera_controller': PYTHONPATH=/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/vignesh/micronav_ws/build/camera_controller/build install --record /home/vignesh/micronav_ws/build/camera_controller/install.log --single-version-externally-managed
+[40.285s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/vignesh/micronav_ws/src/camera_controller' returned '0': PYTHONPATH=/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/vignesh/micronav_ws/build/camera_controller/build install --record /home/vignesh/micronav_ws/build/camera_controller/install.log --single-version-externally-managed
+[40.658s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller' for CMake module files
+[40.675s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller' for CMake config files
+[40.697s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller/lib'
+[40.700s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller/bin'
+[40.702s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller/lib/pkgconfig/camera_controller.pc'
+[40.706s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages'
+[40.710s] Level 1:colcon.colcon_core.shell:create_environment_hook('camera_controller', 'pythonpath')
+[40.954s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/hook/pythonpath.ps1'
+[40.965s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/hook/pythonpath.dsv'
+[40.979s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/hook/pythonpath.sh'
+[40.996s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/camera_controller/bin'
+[41.006s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(camera_controller)
+[41.186s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/package.ps1'
+[41.205s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/package.dsv'
+[41.234s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/package.sh'
+[41.253s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/package.bash'
+[41.272s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/camera_controller/share/camera_controller/package.zsh'
+[41.313s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/vignesh/micronav_ws/install/camera_controller/share/colcon-core/packages/camera_controller)
+[41.352s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/vignesh/micronav_ws/src/serial_controller' returned '0': PYTHONPATH=/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/serial_controller build --build-base /home/vignesh/micronav_ws/build/serial_controller/build install --record /home/vignesh/micronav_ws/build/serial_controller/install.log --single-version-externally-managed
+[41.523s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller' for CMake module files
+[41.531s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller' for CMake config files
+[41.544s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller/lib'
+[41.545s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller/bin'
+[41.547s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller/lib/pkgconfig/serial_controller.pc'
+[41.550s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages'
+[41.552s] Level 1:colcon.colcon_core.shell:create_environment_hook('serial_controller', 'pythonpath')
+[41.738s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/hook/pythonpath.ps1'
+[41.743s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/hook/pythonpath.dsv'
+[41.747s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/hook/pythonpath.sh'
+[41.753s] Level 1:colcon.colcon_core.environment:checking '/home/vignesh/micronav_ws/install/serial_controller/bin'
+[41.754s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(serial_controller)
+[41.968s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/package.ps1'
+[41.976s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/package.dsv'
+[41.981s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/package.sh'
+[41.986s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/package.bash'
+[41.990s] INFO:colcon.colcon_core.shell:Creating package script '/home/vignesh/micronav_ws/install/serial_controller/share/serial_controller/package.zsh'
+[41.994s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/vignesh/micronav_ws/install/serial_controller/share/colcon-core/packages/serial_controller)
+[42.004s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[42.033s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[42.050s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[42.051s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[42.431s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[42.432s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[42.433s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[42.434s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[42.458s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[42.459s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[42.634s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vignesh/micronav_ws/install/local_setup.ps1'
+[42.654s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/vignesh/micronav_ws/install/_local_setup_util_ps1.py'
+[42.689s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vignesh/micronav_ws/install/setup.ps1'
+[42.864s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vignesh/micronav_ws/install/local_setup.sh'
+[42.886s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/vignesh/micronav_ws/install/_local_setup_util_sh.py'
+[42.892s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vignesh/micronav_ws/install/setup.sh'
+[43.066s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vignesh/micronav_ws/install/local_setup.bash'
+[43.093s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vignesh/micronav_ws/install/setup.bash'
+[43.304s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/vignesh/micronav_ws/install/local_setup.zsh'
+[43.333s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/vignesh/micronav_ws/install/setup.zsh'

@@ -1,0 +1,26 @@
+running develop
+Removing /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial-controller.egg-link (link to .)
+running egg_info
+writing ../../build/serial_controller/serial_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/serial_controller/serial_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/serial_controller/serial_controller.egg-info/entry_points.txt
+writing requirements to ../../build/serial_controller/serial_controller.egg-info/requires.txt
+writing top-level names to ../../build/serial_controller/serial_controller.egg-info/top_level.txt
+reading manifest file '../../build/serial_controller/serial_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/serial_controller/serial_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying serial_controller/serial_node.py -> /home/vignesh/micronav_ws/build/serial_controller/build/lib/serial_controller
+running install
+running install_lib
+creating /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller
+copying /home/vignesh/micronav_ws/build/serial_controller/build/lib/serial_controller/__init__.py -> /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller
+copying /home/vignesh/micronav_ws/build/serial_controller/build/lib/serial_controller/serial_node.py -> /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller
+byte-compiling /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller/serial_node.py to serial_node.cpython-310.pyc
+running install_data
+running install_egg_info
+Copying ../../build/serial_controller/serial_controller.egg-info to /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller-0.0.0-py3.10.egg-info
+running install_scripts
+Installing serilcom script to /home/vignesh/micronav_ws/install/serial_controller/lib/serial_controller
+writing list of installed files to '/home/vignesh/micronav_ws/build/serial_controller/install.log'

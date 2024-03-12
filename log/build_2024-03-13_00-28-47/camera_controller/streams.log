@@ -1,0 +1,20 @@
+[17.934s] Invoking command in '/home/vignesh/micronav_ws/src/camera_controller': PYTHONPATH=/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/vignesh/micronav_ws/build/camera_controller/build install --record /home/vignesh/micronav_ws/build/camera_controller/install.log --single-version-externally-managed
+[23.061s] running egg_info
+[23.069s] writing ../../build/camera_controller/camera_controller.egg-info/PKG-INFO
+[23.076s] writing dependency_links to ../../build/camera_controller/camera_controller.egg-info/dependency_links.txt
+[23.082s] writing entry points to ../../build/camera_controller/camera_controller.egg-info/entry_points.txt
+[23.083s] writing requirements to ../../build/camera_controller/camera_controller.egg-info/requires.txt
+[23.086s] writing top-level names to ../../build/camera_controller/camera_controller.egg-info/top_level.txt
+[23.103s] reading manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[23.117s] writing manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[23.119s] running build
+[23.120s] running build_py
+[23.126s] running install
+[23.132s] running install_lib
+[23.156s] running install_data
+[23.172s] running install_egg_info
+[23.207s] removing '/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[23.215s] Copying ../../build/camera_controller/camera_controller.egg-info to /home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller-0.0.0-py3.10.egg-info
+[23.235s] running install_scripts
+[23.516s] writing list of installed files to '/home/vignesh/micronav_ws/build/camera_controller/install.log'
+[23.875s] Invoked command in '/home/vignesh/micronav_ws/src/camera_controller' returned '0': PYTHONPATH=/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/vignesh/micronav_ws/build/camera_controller/build install --record /home/vignesh/micronav_ws/build/camera_controller/install.log --single-version-externally-managed

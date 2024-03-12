@@ -1,0 +1,285 @@
+[0.000000] (-) TimerEvent: {}
+[0.003400] (camera_controller) JobQueued: {'identifier': 'camera_controller', 'dependencies': OrderedDict()}
+[0.003970] (serial_controller) JobQueued: {'identifier': 'serial_controller', 'dependencies': OrderedDict()}
+[0.005031] (camera_controller) JobStarted: {'identifier': 'camera_controller'}
+[0.094513] (-) TimerEvent: {}
+[0.197149] (-) TimerEvent: {}
+[0.299977] (-) TimerEvent: {}
+[0.405668] (-) TimerEvent: {}
+[0.508327] (-) TimerEvent: {}
+[0.609737] (-) TimerEvent: {}
+[0.711252] (-) TimerEvent: {}
+[0.813672] (-) TimerEvent: {}
+[0.915632] (-) TimerEvent: {}
+[0.994846] (serial_controller) JobStarted: {'identifier': 'serial_controller'}
+[1.016086] (-) TimerEvent: {}
+[1.117810] (-) TimerEvent: {}
+[1.221906] (-) TimerEvent: {}
+[1.324645] (-) TimerEvent: {}
+[1.426138] (-) TimerEvent: {}
+[1.529585] (-) TimerEvent: {}
+[1.631922] (-) TimerEvent: {}
+[1.735811] (-) TimerEvent: {}
+[1.839311] (-) TimerEvent: {}
+[1.941626] (-) TimerEvent: {}
+[2.044587] (-) TimerEvent: {}
+[2.147097] (-) TimerEvent: {}
+[2.248648] (-) TimerEvent: {}
+[2.350068] (-) TimerEvent: {}
+[2.451683] (-) TimerEvent: {}
+[2.553076] (-) TimerEvent: {}
+[2.654983] (-) TimerEvent: {}
+[2.757238] (-) TimerEvent: {}
+[2.859196] (-) TimerEvent: {}
+[2.960750] (-) TimerEvent: {}
+[3.062242] (-) TimerEvent: {}
+[3.163682] (-) TimerEvent: {}
+[3.265516] (-) TimerEvent: {}
+[3.369416] (-) TimerEvent: {}
+[3.471090] (-) TimerEvent: {}
+[3.572466] (-) TimerEvent: {}
+[3.673825] (-) TimerEvent: {}
+[3.775334] (-) TimerEvent: {}
+[3.876675] (-) TimerEvent: {}
+[3.978127] (-) TimerEvent: {}
+[4.079760] (-) TimerEvent: {}
+[4.181109] (-) TimerEvent: {}
+[4.282620] (-) TimerEvent: {}
+[4.384042] (-) TimerEvent: {}
+[4.485457] (-) TimerEvent: {}
+[4.587060] (-) TimerEvent: {}
+[4.688443] (-) TimerEvent: {}
+[4.789786] (-) TimerEvent: {}
+[4.891303] (-) TimerEvent: {}
+[4.992842] (-) TimerEvent: {}
+[5.094298] (-) TimerEvent: {}
+[5.196066] (-) TimerEvent: {}
+[5.297608] (-) TimerEvent: {}
+[5.399419] (-) TimerEvent: {}
+[5.503008] (-) TimerEvent: {}
+[5.604656] (-) TimerEvent: {}
+[5.706761] (-) TimerEvent: {}
+[5.808938] (-) TimerEvent: {}
+[5.910991] (-) TimerEvent: {}
+[6.018793] (-) TimerEvent: {}
+[6.121226] (-) TimerEvent: {}
+[6.222732] (-) TimerEvent: {}
+[6.324079] (-) TimerEvent: {}
+[6.425516] (-) TimerEvent: {}
+[6.527692] (-) TimerEvent: {}
+[6.629884] (-) TimerEvent: {}
+[6.731436] (-) TimerEvent: {}
+[6.832767] (-) TimerEvent: {}
+[6.934122] (-) TimerEvent: {}
+[7.035585] (-) TimerEvent: {}
+[7.136998] (-) TimerEvent: {}
+[7.238450] (-) TimerEvent: {}
+[7.339821] (-) TimerEvent: {}
+[7.441201] (-) TimerEvent: {}
+[7.542766] (-) TimerEvent: {}
+[7.644221] (-) TimerEvent: {}
+[7.745664] (-) TimerEvent: {}
+[7.847109] (-) TimerEvent: {}
+[7.948484] (-) TimerEvent: {}
+[8.049888] (-) TimerEvent: {}
+[8.151273] (-) TimerEvent: {}
+[8.252636] (-) TimerEvent: {}
+[8.354030] (-) TimerEvent: {}
+[8.455517] (-) TimerEvent: {}
+[8.557040] (-) TimerEvent: {}
+[8.658516] (-) TimerEvent: {}
+[8.759916] (-) TimerEvent: {}
+[8.861336] (-) TimerEvent: {}
+[8.962871] (-) TimerEvent: {}
+[9.064404] (-) TimerEvent: {}
+[9.166027] (-) TimerEvent: {}
+[9.267885] (-) TimerEvent: {}
+[9.369708] (-) TimerEvent: {}
+[9.471351] (-) TimerEvent: {}
+[9.572766] (-) TimerEvent: {}
+[9.674251] (-) TimerEvent: {}
+[9.777486] (-) TimerEvent: {}
+[9.885704] (-) TimerEvent: {}
+[9.992703] (-) TimerEvent: {}
+[10.094396] (-) TimerEvent: {}
+[10.196797] (-) TimerEvent: {}
+[10.298619] (-) TimerEvent: {}
+[10.400341] (-) TimerEvent: {}
+[10.502890] (-) TimerEvent: {}
+[10.604558] (-) TimerEvent: {}
+[10.707015] (-) TimerEvent: {}
+[10.810146] (-) TimerEvent: {}
+[10.912894] (-) TimerEvent: {}
+[11.014595] (-) TimerEvent: {}
+[11.116891] (-) TimerEvent: {}
+[11.218442] (-) TimerEvent: {}
+[11.321440] (-) TimerEvent: {}
+[11.422886] (-) TimerEvent: {}
+[11.524525] (-) TimerEvent: {}
+[11.626298] (-) TimerEvent: {}
+[11.728101] (-) TimerEvent: {}
+[11.830901] (-) TimerEvent: {}
+[11.933078] (-) TimerEvent: {}
+[12.035422] (-) TimerEvent: {}
+[12.136959] (-) TimerEvent: {}
+[12.238560] (-) TimerEvent: {}
+[12.340903] (-) TimerEvent: {}
+[12.442566] (-) TimerEvent: {}
+[12.544965] (-) TimerEvent: {}
+[12.646882] (-) TimerEvent: {}
+[12.748580] (-) TimerEvent: {}
+[12.850229] (-) TimerEvent: {}
+[12.952591] (-) TimerEvent: {}
+[13.054059] (-) TimerEvent: {}
+[13.156385] (-) TimerEvent: {}
+[13.259889] (-) TimerEvent: {}
+[13.362207] (-) TimerEvent: {}
+[13.464129] (-) TimerEvent: {}
+[13.567168] (-) TimerEvent: {}
+[13.668910] (-) TimerEvent: {}
+[13.770604] (-) TimerEvent: {}
+[13.873563] (-) TimerEvent: {}
+[13.975625] (-) TimerEvent: {}
+[14.077552] (-) TimerEvent: {}
+[14.179301] (-) TimerEvent: {}
+[14.281259] (-) TimerEvent: {}
+[14.383158] (-) TimerEvent: {}
+[14.486067] (-) TimerEvent: {}
+[14.588346] (-) TimerEvent: {}
+[14.690231] (-) TimerEvent: {}
+[14.792174] (-) TimerEvent: {}
+[14.893903] (-) TimerEvent: {}
+[14.995825] (-) TimerEvent: {}
+[15.097645] (-) TimerEvent: {}
+[15.199313] (-) TimerEvent: {}
+[15.301264] (-) TimerEvent: {}
+[15.403747] (-) TimerEvent: {}
+[15.506833] (-) TimerEvent: {}
+[15.609709] (-) TimerEvent: {}
+[15.712261] (-) TimerEvent: {}
+[15.815215] (-) TimerEvent: {}
+[15.921178] (-) TimerEvent: {}
+[16.023191] (-) TimerEvent: {}
+[16.125690] (-) TimerEvent: {}
+[16.227703] (-) TimerEvent: {}
+[16.329969] (-) TimerEvent: {}
+[16.432260] (-) TimerEvent: {}
+[16.535513] (-) TimerEvent: {}
+[16.639084] (-) TimerEvent: {}
+[16.688930] (camera_controller) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'develop', '--editable', '--build-directory', '/home/vignesh/micronav_ws/build/camera_controller/build', '--no-deps', 'install_data'], 'cwd': '/home/vignesh/micronav_ws/build/camera_controller', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'vignesh', 'SSH_CLIENT': '192.168.157.245 33510 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/vignesh', 'OLDPWD': '/home/vignesh/micronav_ws/src', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/vignesh/micronav_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'vignesh', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/vignesh/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/vignesh/micronav_ws/install/serial_controller:/home/vignesh/micronav_ws/install/camera_controller:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/vignesh/micronav_ws/build/camera_controller', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.157.245 33510 192.168.157.148 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[16.753093] (-) TimerEvent: {}
+[16.855789] (-) TimerEvent: {}
+[16.874506] (serial_controller) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'develop', '--editable', '--build-directory', '/home/vignesh/micronav_ws/build/serial_controller/build', '--no-deps', 'install_data'], 'cwd': '/home/vignesh/micronav_ws/build/serial_controller', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'vignesh', 'SSH_CLIENT': '192.168.157.245 33510 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/vignesh', 'OLDPWD': '/home/vignesh/micronav_ws/src', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/vignesh/micronav_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'vignesh', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/vignesh/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/vignesh/micronav_ws/install/serial_controller:/home/vignesh/micronav_ws/install/camera_controller:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/vignesh/micronav_ws/build/serial_controller', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.157.245 33510 192.168.157.148 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[16.956146] (-) TimerEvent: {}
+[17.059257] (-) TimerEvent: {}
+[17.163068] (-) TimerEvent: {}
+[17.265365] (-) TimerEvent: {}
+[17.367983] (-) TimerEvent: {}
+[17.470960] (-) TimerEvent: {}
+[17.573588] (-) TimerEvent: {}
+[17.675326] (-) TimerEvent: {}
+[17.777189] (-) TimerEvent: {}
+[17.879537] (-) TimerEvent: {}
+[17.981770] (-) TimerEvent: {}
+[18.084136] (-) TimerEvent: {}
+[18.186215] (-) TimerEvent: {}
+[18.289046] (-) TimerEvent: {}
+[18.390528] (-) TimerEvent: {}
+[18.491858] (-) TimerEvent: {}
+[18.593349] (-) TimerEvent: {}
+[18.695805] (-) TimerEvent: {}
+[18.798139] (-) TimerEvent: {}
+[18.900587] (-) TimerEvent: {}
+[19.002805] (-) TimerEvent: {}
+[19.104857] (-) TimerEvent: {}
+[19.207052] (-) TimerEvent: {}
+[19.309237] (-) TimerEvent: {}
+[19.412105] (-) TimerEvent: {}
+[19.515018] (-) TimerEvent: {}
+[19.617827] (-) TimerEvent: {}
+[19.720915] (-) TimerEvent: {}
+[19.823646] (-) TimerEvent: {}
+[19.925986] (-) TimerEvent: {}
+[20.027823] (-) TimerEvent: {}
+[20.132536] (-) TimerEvent: {}
+[20.235575] (-) TimerEvent: {}
+[20.337828] (-) TimerEvent: {}
+[20.440716] (-) TimerEvent: {}
+[20.543156] (-) TimerEvent: {}
+[20.574208] (camera_controller) StdoutLine: {'line': b'running develop\n'}
+[20.576681] (serial_controller) StdoutLine: {'line': b'running develop\n'}
+[20.643508] (-) TimerEvent: {}
+[20.745039] (-) TimerEvent: {}
+[20.847687] (-) TimerEvent: {}
+[20.950309] (-) TimerEvent: {}
+[21.052609] (-) TimerEvent: {}
+[21.155720] (-) TimerEvent: {}
+[21.258723] (-) TimerEvent: {}
+[21.361654] (-) TimerEvent: {}
+[21.464710] (-) TimerEvent: {}
+[21.567677] (-) TimerEvent: {}
+[21.669123] (-) TimerEvent: {}
+[21.771736] (-) TimerEvent: {}
+[21.873531] (-) TimerEvent: {}
+[21.975408] (-) TimerEvent: {}
+[22.077749] (-) TimerEvent: {}
+[22.179529] (-) TimerEvent: {}
+[22.281331] (-) TimerEvent: {}
+[22.383027] (-) TimerEvent: {}
+[22.484747] (-) TimerEvent: {}
+[22.586574] (-) TimerEvent: {}
+[22.688168] (-) TimerEvent: {}
+[22.690185] (serial_controller) StdoutLine: {'line': b'running egg_info\n'}
+[22.692060] (serial_controller) StdoutLine: {'line': b'writing serial_controller.egg-info/PKG-INFO\n'}
+[22.693660] (camera_controller) StdoutLine: {'line': b'running egg_info\n'}
+[22.695414] (camera_controller) StdoutLine: {'line': b'writing camera_controller.egg-info/PKG-INFO\n'}
+[22.698610] (serial_controller) StdoutLine: {'line': b'writing dependency_links to serial_controller.egg-info/dependency_links.txt\n'}
+[22.702666] (camera_controller) StdoutLine: {'line': b'writing dependency_links to camera_controller.egg-info/dependency_links.txt\n'}
+[22.704417] (serial_controller) StdoutLine: {'line': b'writing entry points to serial_controller.egg-info/entry_points.txt\n'}
+[22.708085] (camera_controller) StdoutLine: {'line': b'writing entry points to camera_controller.egg-info/entry_points.txt\n'}
+[22.710281] (camera_controller) StdoutLine: {'line': b'writing requirements to camera_controller.egg-info/requires.txt\n'}
+[22.712187] (serial_controller) StdoutLine: {'line': b'writing requirements to serial_controller.egg-info/requires.txt\n'}
+[22.713460] (camera_controller) StdoutLine: {'line': b'writing top-level names to camera_controller.egg-info/top_level.txt\n'}
+[22.717540] (serial_controller) StdoutLine: {'line': b'writing top-level names to serial_controller.egg-info/top_level.txt\n'}
+[22.726287] (camera_controller) StdoutLine: {'line': b"reading manifest file 'camera_controller.egg-info/SOURCES.txt'\n"}
+[22.736958] (serial_controller) StdoutLine: {'line': b"reading manifest file 'serial_controller.egg-info/SOURCES.txt'\n"}
+[22.739259] (camera_controller) StdoutLine: {'line': b"writing manifest file 'camera_controller.egg-info/SOURCES.txt'\n"}
+[22.743652] (serial_controller) StdoutLine: {'line': b"writing manifest file 'serial_controller.egg-info/SOURCES.txt'\n"}
+[22.752718] (camera_controller) StdoutLine: {'line': b'running build_ext\n'}
+[22.755495] (serial_controller) StdoutLine: {'line': b'running build_ext\n'}
+[22.757045] (camera_controller) StdoutLine: {'line': b'Creating /home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera-controller.egg-link (link to .)\n'}
+[22.759435] (serial_controller) StdoutLine: {'line': b'Creating /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial-controller.egg-link (link to .)\n'}
+[22.765686] (camera_controller) StdoutLine: {'line': b'\n'}
+[22.768198] (camera_controller) StdoutLine: {'line': b'Installed /home/vignesh/micronav_ws/build/camera_controller\n'}
+[22.769608] (camera_controller) StdoutLine: {'line': b'running install_data\n'}
+[22.772096] (serial_controller) StdoutLine: {'line': b'Installing serilcom script to /home/vignesh/micronav_ws/install/serial_controller/lib/serial_controller\n'}
+[22.774218] (serial_controller) StdoutLine: {'line': b'\n'}
+[22.776196] (serial_controller) StdoutLine: {'line': b'Installed /home/vignesh/micronav_ws/build/serial_controller\n'}
+[22.777807] (serial_controller) StdoutLine: {'line': b'running install_data\n'}
+[22.788592] (-) TimerEvent: {}
+[22.890746] (-) TimerEvent: {}
+[22.992949] (-) TimerEvent: {}
+[23.096068] (-) TimerEvent: {}
+[23.175162] (camera_controller) CommandEnded: {'returncode': 0}
+[23.196657] (-) TimerEvent: {}
+[23.298211] (-) TimerEvent: {}
+[23.400649] (-) TimerEvent: {}
+[23.502799] (-) TimerEvent: {}
+[23.606168] (-) TimerEvent: {}
+[23.716337] (-) TimerEvent: {}
+[23.838821] (-) TimerEvent: {}
+[23.942473] (-) TimerEvent: {}
+[24.044768] (-) TimerEvent: {}
+[24.146965] (-) TimerEvent: {}
+[24.202130] (camera_controller) JobEnded: {'identifier': 'camera_controller', 'rc': 0}
+[24.215441] (serial_controller) CommandEnded: {'returncode': 0}
+[24.247812] (-) TimerEvent: {}
+[24.349501] (-) TimerEvent: {}
+[24.451587] (-) TimerEvent: {}
+[24.557846] (-) TimerEvent: {}
+[24.661573] (-) TimerEvent: {}
+[24.763723] (-) TimerEvent: {}
+[24.865494] (-) TimerEvent: {}
+[24.956661] (serial_controller) JobEnded: {'identifier': 'serial_controller', 'rc': 0}
+[24.974073] (-) TimerEvent: {}
+[24.975111] (-) EventReactorShutdown: {}

@@ -1,0 +1,30 @@
+[15.643s] Invoking command in '/home/vignesh/micronav_ws/build/serial_controller': PYTHONPATH=/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/vignesh/micronav_ws/build/serial_controller/build
+[19.072s] running develop
+[21.219s] Removing /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial-controller.egg-link (link to .)
+[21.603s] Invoked command in '/home/vignesh/micronav_ws/build/serial_controller' returned '0': PYTHONPATH=/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/vignesh/micronav_ws/build/serial_controller/build
+[21.641s] Invoking command in '/home/vignesh/micronav_ws/src/serial_controller': PYTHONPATH=/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/serial_controller build --build-base /home/vignesh/micronav_ws/build/serial_controller/build install --record /home/vignesh/micronav_ws/build/serial_controller/install.log --single-version-externally-managed
+[24.855s] running egg_info
+[24.867s] writing ../../build/serial_controller/serial_controller.egg-info/PKG-INFO
+[24.871s] writing dependency_links to ../../build/serial_controller/serial_controller.egg-info/dependency_links.txt
+[24.880s] writing entry points to ../../build/serial_controller/serial_controller.egg-info/entry_points.txt
+[24.881s] writing requirements to ../../build/serial_controller/serial_controller.egg-info/requires.txt
+[24.890s] writing top-level names to ../../build/serial_controller/serial_controller.egg-info/top_level.txt
+[24.908s] reading manifest file '../../build/serial_controller/serial_controller.egg-info/SOURCES.txt'
+[24.917s] writing manifest file '../../build/serial_controller/serial_controller.egg-info/SOURCES.txt'
+[24.918s] running build
+[24.919s] running build_py
+[24.920s] copying serial_controller/serial_node.py -> /home/vignesh/micronav_ws/build/serial_controller/build/lib/serial_controller
+[24.927s] running install
+[24.931s] running install_lib
+[24.943s] creating /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller
+[24.952s] copying /home/vignesh/micronav_ws/build/serial_controller/build/lib/serial_controller/__init__.py -> /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller
+[24.955s] copying /home/vignesh/micronav_ws/build/serial_controller/build/lib/serial_controller/serial_node.py -> /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller
+[24.963s] byte-compiling /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller/__init__.py to __init__.cpython-310.pyc
+[24.965s] byte-compiling /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller/serial_node.py to serial_node.cpython-310.pyc
+[24.970s] running install_data
+[24.973s] running install_egg_info
+[24.995s] Copying ../../build/serial_controller/serial_controller.egg-info to /home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller-0.0.0-py3.10.egg-info
+[25.013s] running install_scripts
+[25.221s] Installing serilcom script to /home/vignesh/micronav_ws/install/serial_controller/lib/serial_controller
+[25.225s] writing list of installed files to '/home/vignesh/micronav_ws/build/serial_controller/install.log'
+[25.577s] Invoked command in '/home/vignesh/micronav_ws/src/serial_controller' returned '0': PYTHONPATH=/home/vignesh/micronav_ws/build/serial_controller/prefix_override:/home/vignesh/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/serial_controller build --build-base /home/vignesh/micronav_ws/build/serial_controller/build install --record /home/vignesh/micronav_ws/build/serial_controller/install.log --single-version-externally-managed
