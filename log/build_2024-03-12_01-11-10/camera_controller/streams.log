@@ -1,0 +1,33 @@
+[9.271s] Invoking command in '/home/vignesh/micronav_ws/src/camera_controller': PYTHONPATH=/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/vignesh/micronav_ws/build/camera_controller/build install --record /home/vignesh/micronav_ws/build/camera_controller/install.log --single-version-externally-managed
+[12.098s] running egg_info
+[12.103s] creating ../../build/camera_controller/camera_controller.egg-info
+[12.104s] writing ../../build/camera_controller/camera_controller.egg-info/PKG-INFO
+[12.107s] writing dependency_links to ../../build/camera_controller/camera_controller.egg-info/dependency_links.txt
+[12.108s] writing entry points to ../../build/camera_controller/camera_controller.egg-info/entry_points.txt
+[12.110s] writing requirements to ../../build/camera_controller/camera_controller.egg-info/requires.txt
+[12.111s] writing top-level names to ../../build/camera_controller/camera_controller.egg-info/top_level.txt
+[12.113s] writing manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[12.127s] reading manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[12.137s] writing manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[12.139s] running build
+[12.140s] running build_py
+[12.142s] creating /home/vignesh/micronav_ws/build/camera_controller/build
+[12.143s] creating /home/vignesh/micronav_ws/build/camera_controller/build/lib
+[12.144s] creating /home/vignesh/micronav_ws/build/camera_controller/build/lib/camera_controller
+[12.145s] copying camera_controller/__init__.py -> /home/vignesh/micronav_ws/build/camera_controller/build/lib/camera_controller
+[12.146s] running install
+[12.147s] running install_lib
+[12.154s] creating /home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller
+[12.155s] copying /home/vignesh/micronav_ws/build/camera_controller/build/lib/camera_controller/__init__.py -> /home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller
+[12.161s] byte-compiling /home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller/__init__.py to __init__.cpython-310.pyc
+[12.163s] running install_data
+[12.169s] creating /home/vignesh/micronav_ws/install/camera_controller/share/ament_index
+[12.171s] creating /home/vignesh/micronav_ws/install/camera_controller/share/ament_index/resource_index
+[12.172s] creating /home/vignesh/micronav_ws/install/camera_controller/share/ament_index/resource_index/packages
+[12.174s] copying resource/camera_controller -> /home/vignesh/micronav_ws/install/camera_controller/share/ament_index/resource_index/packages
+[12.175s] copying package.xml -> /home/vignesh/micronav_ws/install/camera_controller/share/camera_controller
+[12.176s] running install_egg_info
+[12.190s] Copying ../../build/camera_controller/camera_controller.egg-info to /home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller-0.0.0-py3.10.egg-info
+[12.204s] running install_scripts
+[12.393s] writing list of installed files to '/home/vignesh/micronav_ws/build/camera_controller/install.log'
+[12.669s] Invoked command in '/home/vignesh/micronav_ws/src/camera_controller' returned '0': PYTHONPATH=/home/vignesh/micronav_ws/build/camera_controller/prefix_override:/home/vignesh/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/vignesh/micronav_ws/build/camera_controller/build install --record /home/vignesh/micronav_ws/build/camera_controller/install.log --single-version-externally-managed
