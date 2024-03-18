@@ -1,0 +1,17 @@
+[0.724s] Invoking command in '/home/loga/micronav_ws/build/serial_controller': PYTHONPATH=/home/loga/micronav_ws/build/serial_controller/prefix_override:/home/loga/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/loga/micronav_ws/build/serial_controller/build --no-deps install_data
+[0.901s] running develop
+[0.998s] running egg_info
+[0.998s] writing serial_controller.egg-info/PKG-INFO
+[0.998s] writing dependency_links to serial_controller.egg-info/dependency_links.txt
+[0.998s] writing entry points to serial_controller.egg-info/entry_points.txt
+[0.999s] writing requirements to serial_controller.egg-info/requires.txt
+[0.999s] writing top-level names to serial_controller.egg-info/top_level.txt
+[1.000s] reading manifest file 'serial_controller.egg-info/SOURCES.txt'
+[1.001s] writing manifest file 'serial_controller.egg-info/SOURCES.txt'
+[1.002s] running build_ext
+[1.002s] Creating /home/loga/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial-controller.egg-link (link to .)
+[1.003s] Installing serilcom script to /home/loga/micronav_ws/install/serial_controller/lib/serial_controller
+[1.003s] 
+[1.003s] Installed /home/loga/micronav_ws/build/serial_controller
+[1.003s] running install_data
+[1.031s] Invoked command in '/home/loga/micronav_ws/build/serial_controller' returned '0': PYTHONPATH=/home/loga/micronav_ws/build/serial_controller/prefix_override:/home/loga/micronav_ws/install/serial_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/loga/micronav_ws/build/serial_controller/build --no-deps install_data

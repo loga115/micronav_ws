@@ -10,7 +10,11 @@ setup.py
 ../../build/camera_controller/camera_controller.egg-info/zip-safe
 camera_controller/__init__.py
 camera_controller/cam_pub.py
+camera_controller.egg-info/PKG-INFO
+camera_controller.egg-info/SOURCES.txt
+camera_controller.egg-info/dependency_links.txt
+camera_controller.egg-info/entry_points.txt
+camera_controller.egg-info/requires.txt
+camera_controller.egg-info/top_level.txt
+camera_controller.egg-info/zip-safe
 resource/camera_controller
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py

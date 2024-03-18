@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing serial_controller.egg-info/PKG-INFO
+writing dependency_links to serial_controller.egg-info/dependency_links.txt
+writing entry points to serial_controller.egg-info/entry_points.txt
+writing requirements to serial_controller.egg-info/requires.txt
+writing top-level names to serial_controller.egg-info/top_level.txt
+reading manifest file 'serial_controller.egg-info/SOURCES.txt'
+writing manifest file 'serial_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/loga/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial-controller.egg-link (link to .)
+Installing serilcom script to /home/loga/micronav_ws/install/serial_controller/lib/serial_controller
+
+Installed /home/loga/micronav_ws/build/serial_controller
+running install_data

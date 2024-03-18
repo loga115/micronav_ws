@@ -4,3 +4,6 @@ source;share/serial_controller/hook/pythonpath.sh
 source;share/serial_controller/hook/ament_prefix_path.ps1
 source;share/serial_controller/hook/ament_prefix_path.dsv
 source;share/serial_controller/hook/ament_prefix_path.sh
+source;../../build/serial_controller/share/serial_controller/hook/pythonpath_develop.ps1
+source;../../build/serial_controller/share/serial_controller/hook/pythonpath_develop.dsv
+source;../../build/serial_controller/share/serial_controller/hook/pythonpath_develop.sh

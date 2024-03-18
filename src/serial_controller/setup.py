@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'serilcom = serial_controller.serial_node:main',
+            'serialcom = serial_controller.serial_node:main',
+            'serialpublisher = serial_controller.serial_publisher:main',
         ],
     },
 )

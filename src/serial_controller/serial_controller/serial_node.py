@@ -12,10 +12,11 @@ class SubscriberNode(Node):
             self.listener_callback,
             10)
         self.subscription  
-        self.serial_port = serial.Serial('/dev/ttyS0', 9600, timeout=1) 
+        self.serial_port = serial.Serial('/dev/ttyACM0', 9600, timeout=1) 
 
     def listener_callback(self, msg):
         received_data = msg.data
+        self.get_logger().debug('Received: "%s"' %received_data)
         self.get_logger().info('Received: "%s"' % received_data)
         self.send_serial_data(received_data)
 

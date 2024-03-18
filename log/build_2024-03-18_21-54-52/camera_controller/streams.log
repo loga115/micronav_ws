@@ -1,0 +1,16 @@
+[0.713s] Invoking command in '/home/loga/micronav_ws/build/camera_controller': PYTHONPATH=/home/loga/micronav_ws/build/camera_controller/prefix_override:/home/loga/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/loga/micronav_ws/build/camera_controller/build --no-deps install_data
+[0.879s] running develop
+[0.973s] running egg_info
+[0.973s] writing camera_controller.egg-info/PKG-INFO
+[0.974s] writing dependency_links to camera_controller.egg-info/dependency_links.txt
+[0.974s] writing entry points to camera_controller.egg-info/entry_points.txt
+[0.974s] writing requirements to camera_controller.egg-info/requires.txt
+[0.974s] writing top-level names to camera_controller.egg-info/top_level.txt
+[0.975s] reading manifest file 'camera_controller.egg-info/SOURCES.txt'
+[0.975s] writing manifest file 'camera_controller.egg-info/SOURCES.txt'
+[0.977s] running build_ext
+[0.977s] Creating /home/loga/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera-controller.egg-link (link to .)
+[0.977s] 
+[0.977s] Installed /home/loga/micronav_ws/build/camera_controller
+[0.977s] running install_data
+[1.004s] Invoked command in '/home/loga/micronav_ws/build/camera_controller' returned '0': PYTHONPATH=/home/loga/micronav_ws/build/camera_controller/prefix_override:/home/loga/micronav_ws/install/camera_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/loga/micronav_ws/build/camera_controller/build --no-deps install_data
